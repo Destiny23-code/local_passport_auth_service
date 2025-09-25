@@ -8,4 +8,4 @@ TEST POSTMAN
 - Profile
 ![alt text](public/results/profile3.png)
 - Logout
-![alt text](public/results/logout3.png)
+![alt text](public/results/logout3_pm.png)
