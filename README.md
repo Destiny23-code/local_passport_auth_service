@@ -1,0 +1,11 @@
+TEST POSTMAN
+- Register
+![alt text](public/results/register3_pm.png)
+![alt text](public/results/register3_mgo.png)
+- Login
+![alt text](public/results/login3_pm.png)
+![alt text](public/results/login3_cookie.png)
+- Profile
+![alt text](public/results/profile3.png)
+- Logout
+![alt text](public/results/logout3.png)
